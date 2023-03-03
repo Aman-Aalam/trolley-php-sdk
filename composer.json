@@ -1,5 +1,5 @@
 {
-    "name": "trolley/trolley-core",
+    "name": "trolley/core",
     "type": "library",
     "description": "Trolley PHP SDK",
     "homepage": "https://github.com/PaymentRails/php-sdk",
