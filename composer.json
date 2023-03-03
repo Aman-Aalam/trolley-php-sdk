@@ -4,13 +4,14 @@
     "description": "Trolley PHP SDK",
     "homepage": "https://github.com/PaymentRails/php-sdk",
     "keywords": [
-        "Trolley"
+        "Trolley", "Payout", "Payments"
     ],
     "license": "MIT",
     "authors": [
         {
             "name": "Trolley",
-            "homepage": "https://www.trolley.com"
+            "homepage": "https://www.trolley.com",
+            "email": "developer-tools@trolley.com"
         }
     ],
     "require": {
